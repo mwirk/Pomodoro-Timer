@@ -17,8 +17,7 @@ A modern, customizable Pomodoro productivity timer built with **React** and **Ne
 |------------------|--------------------------------------|
 | **Next.js**      | React Framework with SSR and routing |
 | **React**        | UI Components                        |
-| **i18next**      | Internationalization (i18n) support  |
-| **Howler.js**    | Custom sound engine for timers       |
+| **i18next**      | Internationalization (i18n) support  |    
 | **Tailwind CSS** | Optional: for utility-first styling  |
 
 ---
